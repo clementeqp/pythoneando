@@ -1,6 +1,6 @@
 # Clemente Quintana            
 
 
-## Ejercicios en Python resueltos por mi.
+## Ejercicios resueltos en Python.
 
 
